@@ -1,6 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 
-  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-  <style>
-    .attribution { font-size: 11px; text-align: center; }
+
+color{
+  ffffff;
+
+
+}
+
+body{
+  font-family: [Outfit](https://fonts.google.com/specimen/Outfit)
+
+
+    }
+
+  body {
+    background-color: #D5E1EF;
+} 
+
+ .card {
+    width: 320px; 
+    height: 499px;
+    background-color: white;
+    box-shadow: 0 25px 25px rgba(0,0,0,0.0477);
+  
+    padding: 16, 16, 40, 16;
+
+ }
+
+ .qr-container{
+    width: 288px;
+    height: 288px;
+    background-color: #2C7DFA;
+}
+
+.qr-circleshidden {
+  width: 533px;
+  height: 639px; ;
+}
+
+.h1 {
+    font-size: 22px;
+    line-height: 120%;
+    letter-spacing: 0;
+    font-weight: bold;
+    color: #1F314F;
+}
+
+.p {
+  font-size: 15px;
+  Line-height: 140%;
+  Letter-spacing: 0.2px;
+  Color: #3685FF;
+}
+/*
+## Typography
+### Body Copy
+-
+### 
+- Weights: 400, 700
+ Colors
+- White: hsl(0, 0%, 100%)
+- Slate 300: hsl(212, 45%, 89%)
+slate 400: 214, 
+- Slate 500: hsl(216, 15%, 48%)
+- Slate 900: hsl(218, 44%, 22%)
+
+## Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+
+}
+.attribution { font-size: 11px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
-  </style>
+*/
